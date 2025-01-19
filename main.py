@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
-TOKEN: Final = '7817313040:AAGrmu2p5oaDLPGRVdDRyNIg2iu26tpPOsk'
+TOKEN: Final = 'xxx'
 
 BOT_USERNAME: Final = '@dsss_hw_9_bot'
 
